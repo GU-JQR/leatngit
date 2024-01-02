@@ -5,3 +5,4 @@ git test4 test 4.4
 git test5
 Creating a new branch is quick and simple.
 add merge
+add no fast 
